@@ -1,0 +1,32 @@
+[
+    {
+        "nombre": "perro",
+        "descripcion": "alguna descripcion",
+        "codigo": 321654,
+        "foto": "https://www.instyle.es/medio/2019/02/04/pantalones-vaqueros-cropped-primavera-uterque_b2a5edab_1000x1499.jpg",
+        "precio": 60,
+        "stock": 70,
+        "id": 1,
+        "timestamp": 1652215876485
+    },
+    {
+        "nombre": "perro",
+        "descripcion": "alguna descripcion",
+        "codigo": 321654,
+        "foto": "https://www.instyle.es/medio/2019/02/04/pantalones-vaqueros-cropped-primavera-uterque_b2a5edab_1000x1499.jpg",
+        "precio": 60,
+        "stock": 70,
+        "id": 3,
+        "timestamp": 1652216215907
+    },
+    {
+        "nombre": "perro",
+        "descripcion": "alguna descripcion",
+        "codigo": 321654,
+        "foto": "https://www.instyle.es/medio/2019/02/04/pantalones-vaqueros-cropped-primavera-uterque_b2a5edab_1000x1499.jpg",
+        "precio": 60,
+        "stock": 70,
+        "id": 4,
+        "timestamp": 1652216216502
+    }
+]
